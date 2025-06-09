@@ -9,6 +9,7 @@
 build/
 build-*/
 html/
+.vscode/
 
 ################################
 ############ C/C++ #############
@@ -58,7 +59,7 @@ html/
 ################################
 ########### VS CODE ############
 ################################
-.vscode/settings.json
+.vscode/settings.json   
 .vscode/c_cpp_properties.json
 *.code-workspace
 .history
@@ -144,3 +145,4 @@ ipch/
 
 # Visual Studio Trace Files
 *.e2e
+
